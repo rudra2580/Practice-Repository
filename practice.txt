@@ -2,4 +2,4 @@ This is for practice purposes. Nothing else
 write now i'm practicing git pull and push
 So my first push is completed successfully and i'm so happy now 
 Now i am committing from gui
-I'm joined Bay Emporium on September 06-2024
+I'm joined Bay Emporium on 06-September-2025
